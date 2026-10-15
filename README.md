@@ -21,7 +21,7 @@ Built by hand from Dropbox's own filings (10-K, 10-Q and results releases), with
 | Highest price that still earns 20% | $24.26 a share |
 | Recommendation | **Pass** (do not invest) |
 
-The reason: at the offer price, unlevered free cash flow yields about 8.4% on enterprise value, while the new debt costs about 9.3%. With flat revenue, borrowing more makes the return worse. Two items the headline numbers hide are treated as real costs: $304m a year of stock-based pay, and about $157m a year of data-centre finance leases that behave like capital spending.
+The reason is the price. The fund pays 15.4x EBITDA but can only assume an exit at today's market multiple of 12.6x, and that fall in the multiple costs more than five years of EBITDA growth adds. With no debt at all the deal would earn 2.8% a year, below the roughly 7% after-tax cost of the new debt, so each extra turn of leverage lowers the return rather than raising it. Two items the headline numbers hide are treated as real costs: $304m a year of stock-based pay, and about $157m a year of data-centre finance leases that behave like capital spending.
 
 ## How it works
 
